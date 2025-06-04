@@ -43,6 +43,22 @@ Average Pizzas per Order: 2.32
 
 • Significant sales spikes occur during late December.
 
+⦿ In the dashboards we have the filters that can help us to get the required for custom exploration.
+
+🔹 1. Pizza Category Filter:
+This filter allows users to focus the entire dashboard view on a specific pizza category, such as Classic, Veggie, Supreme, or Chicken as well as All.
+
+• This enables category-wise performance comparison.
+
+• Helps business stakeholders identify top-performing or underperforming categories.
+
+🔹 2. Order Date Range Filter:
+The date filter enables users to adjust the timeframe of the analysis. Users can zoom in on specific months, quarters, or custom periods within the full year (01-01-2015 to 31-12-2015).
+
+• Useful for identifying seasonal trends and monthly performance.
+
+• Helps in analyzing campaign effectiveness during specific periods.
+
 👉 to view the dashboard:https://public.tableau.com/views/pizzasales_17489650534210/HOMEDASHBOARD?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 
